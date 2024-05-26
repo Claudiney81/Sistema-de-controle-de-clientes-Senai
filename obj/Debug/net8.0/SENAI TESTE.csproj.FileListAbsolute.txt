@@ -1,0 +1,14 @@
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.AssemblyInfoInputs.cache
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.AssemblyInfo.cs
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.csproj.CoreCompileInputs.cache
+C:\Users\C.Moura\Desktop\SENAI TESTE\bin\Debug\net8.0\SENAI TESTE.exe
+C:\Users\C.Moura\Desktop\SENAI TESTE\bin\Debug\net8.0\SENAI TESTE.deps.json
+C:\Users\C.Moura\Desktop\SENAI TESTE\bin\Debug\net8.0\SENAI TESTE.runtimeconfig.json
+C:\Users\C.Moura\Desktop\SENAI TESTE\bin\Debug\net8.0\SENAI TESTE.dll
+C:\Users\C.Moura\Desktop\SENAI TESTE\bin\Debug\net8.0\SENAI TESTE.pdb
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.dll
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\refint\SENAI TESTE.dll
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.pdb
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\SENAI TESTE.genruntimeconfig.cache
+C:\Users\C.Moura\Desktop\SENAI TESTE\obj\Debug\net8.0\ref\SENAI TESTE.dll
